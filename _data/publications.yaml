@@ -4,6 +4,7 @@ papers:
     authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
     venue: "Soft Matter, 2021"
     preprint: "https://doi.org/10.1039/d1sm00860a"
+    selected: y
     #code: "https://github.com/drahcir7/bottleneck-behaviors"
     
     
@@ -11,6 +12,7 @@ papers:
     authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
     venue: "22nd Australasian Fluid Mechanics Conference (AFMC),  2020"
     preprint: "https://doi.org/10.14264/cac8c23"
+    selected: y
     #code: "https://github.com/drahcir7/bottleneck-behaviors"
   
 - title: "Substrate stiffness shapes stigmergy in active furrowers"
