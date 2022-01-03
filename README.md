@@ -1,4 +1,4 @@
-# anjalika-nande.github.io
+# imaranresearch.github.io
 
 Run your Jekyll site locally:
   ```
