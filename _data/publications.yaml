@@ -8,40 +8,40 @@ papers:
     #code: "https://github.com/drahcir7/bottleneck-behaviors"
     
         
-- title: "Stigmergic furrowing by an active suspension in a soft substrate"
-    authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
-    venue: "22nd Australasian Fluid Mechanics Conference (AFMC),  2020"
-    preprint: "https://doi.org/10.14264/cac8c23"
-    #code: "https://github.com/drahcir7/bottleneck-behaviors"
-  
-- title: "Substrate stiffness shapes stigmergy in active furrowers"
-    authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
-    venue: "International Congress on Rheology, Dec., 2020"
-    #preprint: "https://doi.org/10.14264/cac8c23"
-    #code: "https://github.com/drahcir7/bottleneck-behav
-- title: "Substrate stiffness shapes stigmergy in active furrowers"
-    authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
-    venue: "International Congress on Rheology, Dec., 2020"
- 
-- title: "Stigmergy exploits mechanics !"
-    authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
-    venue: "COMPFLU, Dec., 2019"
+  - title: "Stigmergic furrowing by an active suspension in a soft substrate"
+      authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
+      venue: "22nd Australasian Fluid Mechanics Conference (AFMC),  2020"
+      preprint: "https://doi.org/10.14264/cac8c23"
+      #code: "https://github.com/drahcir7/bottleneck-behaviors"
+
+  - title: "Substrate stiffness shapes stigmergy in active furrowers"
+      authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
+      venue: "International Congress on Rheology, Dec., 2020"
+      #preprint: "https://doi.org/10.14264/cac8c23"
+      #code: "https://github.com/drahcir7/bottleneck-behav
+  - title: "Substrate stiffness shapes stigmergy in active furrowers"
+      authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
+      venue: "International Congress on Rheology, Dec., 2020"
+
+  - title: "Stigmergy exploits mechanics !"
+      authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
+      venue: "COMPFLU, Dec., 2019"
 
 
-- title: "Stokesian dynamics simulation of shear rate dependent rheology of dense suspensions in bounded flow"
-    authors: "Mohammad Imaran, Anugrah Singh"
-    venue: "International Congress on Rheology, 2016"
- 
- 
- - title: "Rheology of shear thickening suspensions in bounded shear flow"
-    authors: "Mohammad Imaran, Anugrah Singh"
-    venue: "COMPFLU, 2016"
-    
-  
- - title: "Stokesian Dynamics Simulation of shear thinning suspension"
-    authors: "Mohammad Imaran, Anugrah Singh"
-    venue: "CHEMCON, 2015"
-    
-    
+  - title: "Stokesian dynamics simulation of shear rate dependent rheology of dense suspensions in bounded flow"
+      authors: "Mohammad Imaran, Anugrah Singh"
+      venue: "International Congress on Rheology, 2016"
 
-    
+
+   - title: "Rheology of shear thickening suspensions in bounded shear flow"
+      authors: "Mohammad Imaran, Anugrah Singh"
+      venue: "COMPFLU, 2016"
+
+
+   - title: "Stokesian Dynamics Simulation of shear thinning suspension"
+      authors: "Mohammad Imaran, Anugrah Singh"
+      venue: "CHEMCON, 2015"
+
+
+
+
