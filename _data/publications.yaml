@@ -10,3 +10,8 @@ papers:
     venue: "medRxiv, 2021"
     preprint: "https://www.medrxiv.org/content/10.1101/2021.07.10.21260044v1"
     code: "https://github.com/anjalika-nande/drug-resistance"
+    
+  - title: "Stigmergic furrowing by an active suspension in a soft substrate"
+    authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
+    venue: "22nd Australasian Fluid Mechanics Conference (AFMC),  2020"
+    preprint: "https://doi.org/10.14264/cac8c23"
