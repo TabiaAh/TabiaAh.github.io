@@ -3,11 +3,7 @@ papers:
   - title: "Cluster and conquer: the morphodynamics of invasion of a compliant substrate by active rods"
     authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
     venue: "Soft Matter, 2021"
-    preprint: "https://doi.org/10.1039/d1sm00860a"
-    #selected: y
-    #code: "https://github.com/drahcir7/bottleneck-behaviors"
-    
-        
+    preprint: "https://doi.org/10.1039/d1sm00860a"    
   - title: "Stigmergic furrowing by an active suspension in a soft substrate"
       authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
       venue: "22nd Australasian Fluid Mechanics Conference (AFMC),  2020"
