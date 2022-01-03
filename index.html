@@ -37,6 +37,23 @@ title: Home
 
 </div>
 
+
+<!-- ========== NEWS ========== -->
+<div class="docs-section" id="Experience">
+  <h4>News</h4>
+
+  <ul>
+    {% for nw in site.data.news.news %}
+    <!-- <a class="navbar-link" href={{ "/index.html#bio" | prepend: site.baseurl }}>Bio</a> -->
+
+    <div class="row"><div class="twop columns"><b>{{ nw.date }}</b></div> <div class="ten columns">{{ nw.title }} <i>{{ nw.subtitle }}</i></div></div>
+    {% endfor %}
+  </ul>
+
+</div>
+
+
+
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
