@@ -4,6 +4,6 @@ papers:
     authors: "Mohammad Imaran, Raghunath chelakkot, Mandar M Inamdar, Prabhakar Ranganathan"
     venue: "Soft Matter, 2021"
     preprint: "https://doi.org/10.1039/d1sm00860a"
-    selected: y
+    #selected: y
     #code: "https://github.com/drahcir7/bottleneck-behaviors"
     
