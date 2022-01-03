@@ -6,6 +6,12 @@ experiences:
   subtitle: "Biophysics"
   category: "school"
   
+- place: "Vedantu Innovation Private Limited, Bangalore, India"
+  time: "2017"
+  title: "Educational Content Creator"
+  #subtitle: "Chemical Engineering"
+  category: "work"
+  
 - place: "IIT Guwahati, India"
   time: "Aug '14 -July '16"
   title: "M Tech"
